@@ -24,6 +24,6 @@
 
 ![Alt text](images/image-1.png)
 
-**Демоестрация окончания сессии**
+**Демонстрация окончания сессии**
 
 ![Alt text](images/image-2.png)
